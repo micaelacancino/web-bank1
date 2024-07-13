@@ -1,0 +1,15 @@
+.iconos {
+  font-size: 35px;
+}
+
+.barlow-thin {
+  font-family: "Barlow", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+}
+
+@media only screen and (min-width: 992px) {
+  .titleSize {
+    font-size: 45px;
+  }
+}

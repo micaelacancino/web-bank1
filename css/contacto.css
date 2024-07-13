@@ -1,0 +1,42 @@
+*{
+  box-sizing: border-box;
+}
+
+
+body{
+  overflow-x: hidden;
+}
+
+
+
+
+
+.mapsSize {
+
+width: 100%;
+height: 40vh;
+
+  /* width: 340px;
+  height: 300px; */
+}
+
+@media only screen and (min-width: 768px) {
+  .mapsSize {
+    width: 100%;
+height: 35vh;
+    /* width: 345px;
+    height: 320px; */
+  }
+}
+
+@media only screen and (min-width: 992px) {
+  .mapsSize {
+   
+    height: 390px;
+  }
+}
+.barlow-thin {
+  font-family: "Barlow", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+}
